@@ -1,0 +1,11 @@
+{
+  "lang": "default",
+  "maxTrades": 0,
+  "villagerBlacklist": [],
+  "disablePricePenalty": true,
+  "uninstallMode": false,
+  "allowTravellingMerchants": true,
+  "checkUpdate": true,
+  "allowMetrics": true,
+  "$schema": "https://raw.githubusercontent.com/spartacus04/InstantRestock/master/config.json"
+}
